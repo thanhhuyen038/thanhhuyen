@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	width:200px;
+	height:100px;
+	background-color: yellow;
+	border:2px solid black;
+	margin: 20px;
+	padding: 5px;
+	text-align: justify;
+	float:left;
+}
+div:nth-child(2){
+	clear:left;
+	overflow:hidden;
+}
+div:last-child{
+	overflow:scroll;
+}
+a.new{
+		text-decoration: none;
+		border:2px solid #fff;
+		background-color:#80EAF1;
+		padding:5px;
+		color:aliceblue;
+	}
+a.new:hover{
+	color:black;
+	background-color:cornflowerblue;
+}
