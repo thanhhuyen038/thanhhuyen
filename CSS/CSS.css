@@ -7,7 +7,7 @@
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	height: 75%;
+	height: 80%;
 	background-color: #FFFFFF;
 }
 header {
@@ -53,7 +53,7 @@ nav ul li:hover a {
 }
 .footer{
 	text-align: center;
-	height:15%;
+	height:10%;
 	background-color: #46AFE4;
 	line-height: 30px;
 	font-style:italic;
