@@ -15,7 +15,7 @@ div:nth-child(2){
 	overflow:hidden;
 }
 div:last-child{
-	overflow:scroll;
+	overflow: scroll;
 }
 a.new{
 		text-decoration: none;
